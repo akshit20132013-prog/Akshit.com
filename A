@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Community Medicine – 5 Marks Q&A</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 30px;
+            background-color: #f9f9f9;
+        }
+        h1 {
+            text-align: center;
+            color: #2c3e50;
+        }
+        h2 {
+            background-color: #e3f2fd;
+            padding: 10px;
+            border-left: 5px solid #1976d2;
+        }
+        .qa {
+            background-color: #ffffff;
+            padding: 15px;
+            margin-bottom: 15px;
+            border-radius: 6px;
+            box-shadow: 0 0 5px rgba(0,0,0,0.1);
+        }
+        .q {
+            font-weight: bold;
+            color: #1a237e;
+        }
+        .a ul {
+            margin-top: 5px;
+        }
+    </style>
+</head>
+<body>
+
+<h1>Community Medicine (PSM)<br>5 Marks Question & Answers</h1>
+
+<h2>Family Planning & Maternal Health</h2>
+
+<div class="qa">
+<p class="q">Q1. What are different kinds of family planning devices available in the National Family Welfare Programme?</p>
+<div class="a">
+<ul>
+<li>Barrier methods – Condoms (Nirodh)</li>
+<li>IUCD – Cu-T 380A, Cu-T 375</li>
+<li>Hormonal methods – OCPs (Mala-N, Mala-D), Centchroman</li>
+<li>Injectable contraceptives – Antara</li>
+<li>Permanent methods – Tubectomy, Vasectomy</li>
+</ul>
+</div>
+</div>
+
+<div class="qa">
+<p class="q">Q2. What do you mean by ‘cafeteria approach’ under NFWP?</p>
+<div class="a">
+<ul>
+<li>Provision of multiple contraceptive choices</li>
+<li>Freedom to choose preferred method</li>
+<li>Based on age, parity and health</li>
+<li>Improves acceptability and compliance</li>
+<li>Ensures informed decision-making</li>
+</ul>
+</div>
+</div>
+
+<div class="qa">
+<p class="q">Q3. Who is an ideal candidate for Cu-T?</p>
+<div class="a">
+<ul>
+<li>Married woman with at least one child</li>
+<li>Wants spacing contraception</li>
+<li>No PID or STI</li>
+<li>Not pregnant</li>
+<li>Regular menstrual cycles</li>
+</ul>
+</div>
+</div>
+
+<div class="qa">
+<p class="q">Q4. Is it essential to know attitude of elderly regarding family planning?</p>
+<div class="a">
+<ul>
+<li>Elders influence family decisions</li>
+<li>Affects acceptance of methods</li>
+<li>Cultural beliefs matter</li>
+<li>Improves compliance</li>
+<li>Prevents discontinuation</li>
+</ul>
+</div>
+</div>
+
+<div class="qa">
+<p class="q">Q5. What is PNDT Act?</p>
+<div class="a">
+<ul>
+<li>Pre-Natal Diagnostic Techniques Act</li>
+<li>Prevents sex determination</li>
+<li>Prevents female foeticide</li>
+<li>Regulates diagnostic techniques</li>
+<li>Punishable if violated</li>
+</ul>
+</div>
+</div>
+
+<div class="qa">
+<p class="q">Q6. What are conventional contraceptives? What is an ideal contraceptive?</p>
+<div class="a">
+<b>Conventional:</b>
+<ul>
+<li>Condom</li>
+<li>Diaphragm</li>
+<li>Foams and jellies</li>
+</ul>
+<b>Ideal contraceptive:</b>
+<ul>
+<li>Effective</li>
+<li>Safe</li>
+<li>Reversible</li>
+<li>Affordable</li>
+<li>Acceptable</li>
+</ul>
+</div>
+</div>
+
+<div class="qa">
+<p class="q">Q7. Enumerate high-risk pregnancy criteria.</p>
+<div class="a">
+<ul>
+<li>Age &lt;18 or &gt;35 years</li>
+<li>Parity ≥4</li>
+<li>Previous obstetric complications</li>
+<li>Anemia, PIH, diabetes</li>
+<li>Multiple pregnancy</li>
+</ul>
+</div>
+</div>
+
+<div class="qa">
+<p class="q">Q8. Minimum ANC visits and actions?</p>
+<div class="a">
+<ul>
+<li>Minimum 4 visits</li>
+<li>1st – Registration, TT, Hb</li>
+<li>2nd – BP, weight, fundal height</li>
+<li>3rd – IFA, danger signs</li>
+<li>4th – Birth preparedness</li>
+</ul>
+</div>
+</div>
+
+<div class="qa">
+<p class="q">Q9. Additional nutrients during pregnancy?</p>
+<div class="a">
+<ul>
+<li>Calories +350 kcal/day</li>
+<li>Protein +23 g/day</li>
+<li>Iron and folic acid</li>
+<li>Calcium</li>
+<li>Vitamin supplementation</li>
+</ul>
+</div>
+</div>
+
+<div class="qa">
+<p class="q">Q10. Drugs contraindicated in pregnancy?</p>
+<div class="a">
+<ul>
+<li>Thalidomide</li>
+<li>Isotretinoin</li>
+<li>Warfarin</li>
+<li>Tetracycline</li>
+<li>Valproate</li>
+</ul>
+</div>
+</div>
+
+<h2>Nutrition & Dietetics</h2>
+
+<div class="qa">
+<p class="q">Q18. Methods of assessing nutritional status?</p>
+<div class="a">
+<ul>
+<li>Anthropometry</li>
+<li>Clinical examination</li>
+<li>Biochemical tests</li>
+<li>Dietary assessment</li>
+<li>Functional tests</li>
+</ul>
+</div>
+</div>
+
+<div class="qa">
+<p class="q">Q21. Dietary advice for a 3-year-old child with Vitamin-A deficiency?</p>
+<div class="a">
+<ul>
+<li>Green leafy vegetables</li>
+<li>Yellow fruits and vegetables</li>
+<li>Milk and butter</li>
+<li>Egg yolk and liver</li>
+<li>Vitamin-A supplementation</li>
+</ul>
+</div>
+</div>
+
+<h2>Under-Five & Adolescent Health</h2>
+
+<div class="qa">
+<p class="q">Q30. Who is an adolescent?</p>
+<div class="a">
+<ul>
+<li>Age group 10–19 years</li>
+<li>WHO definition</li>
+<li>Transitional phase</li>
+<li>Rapid growth period</li>
+<li>Psychosocial changes</li>
+</ul>
+</div>
+</div>
+
+<div class="qa">
+<p class="q">Q36. Components of newborn care?</p>
+<div class="a">
+<ul>
+<li>Thermal care</li>
+<li>Early breastfeeding</li>
+<li>Cord care</li>
+<li>Immunization</li>
+<li>Infection prevention</li>
+</ul>
+</div>
+</div>
+
+<h2>Environment, Hygiene & Sanitation</h2>
+
+<div class="qa">
+<p class="q">Q42. Criteria for overcrowding?</p>
+<div class="a">
+<ul>
+<li>Floor space</li>
+<li>Persons per room</li>
+<li>Cubic space</li>
+<li>Ventilation</li>
+<li>Sleeping arrangement</li>
+</ul>
+</div>
+</div>
+
+<div class="qa">
+<p class="q">Q44. Mosquito-borne diseases?</p>
+<div class="a">
+<ul>
+<li>Malaria</li>
+<li>Dengue</li>
+<li>Chikungunya</li>
+<li>Zika</li>
+<li>Filariasis</li>
+</ul>
+</div>
+</div>
+
+<h2>Immunization</h2>
+
+<div class="qa">
+<p class="q">Q65. National Immunization Schedule?</p>
+<div class="a">
+<ul>
+<li>BCG</li>
+<li>OPV</li>
+<li>Pentavalent</li>
+<li>Measles/MR</li>
+<li>TT/Td</li>
+</ul>
+</div>
+</div>
+
+<h2>Socio-Economics & Sociology</h2>
+
+<div class="qa">
+<p class="q">Q85. Enumerate functions of family.</p>
+<div class="a">
+<ul>
+<li>Reproduction</li>
+<li>Socialization</li>
+<li>Economic support</li>
+<li>Emotional support</li>
+<li>Health care</li>
+</ul>
+</div>
+</div>
+
+<p style="text-align:center; margin-top:40px;">
+<b>End of Community Medicine 5 Marks Q&A</b>
+</p>
+
+</body>
+</html>
